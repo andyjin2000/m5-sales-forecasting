@@ -3,4 +3,4 @@ Deep learning for the Walmart product sales forecasting Kaggle competition.
 
 Course project for CS 230, Stanford University, Spring 2020. 
 
-Collaborators: Jasmine Bayrooti, Jesse Doan.
+Team Members: Jasmine Bayrooti, Jesse Doan, Andy Jin.
